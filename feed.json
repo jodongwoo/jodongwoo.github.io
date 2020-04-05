@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ipo BBQ",
+    "description": "",
+    "home_page_url": "https://jodongwoo.github.io",
+    "feed_url": "https://jodongwoo.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ipo"
+    },
+    "items": [
+        {
+            "id": "https://jodongwoo.github.io/test-ibnida/index.html",
+            "url": "https://jodongwoo.github.io/test-ibnida/index.html",
+            "title": "Test 입니다.",
+            "summary": "잘되나요????? 잘되나요????? 잘되나요????? 잘되나요????? 잘되나요????? 잘되나요????? 잘되나요????? 잘되나요????? 잘되나요?????",
+            "content_html": "<p>잘되나요?????</p>\n<p><strong>잘되나요?????</strong></p>\n<p>잘되나요?????</p>\n<p>잘되나요?????</p>\n<p>잘되나요?????</p>\n<p><br>잘되나요?????<br>잘되나요?????<br>잘되나요?????<br>잘되나요?????</p>",
+            "image": "https://jodongwoo.github.io/media/posts/1/flame_PNG13253.png",
+            "author": {
+                "name": "Ipo"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-05T15:58:25-07:00",
+            "date_modified": "2020-04-05T15:58:25-07:00"
+        }
+    ]
+}
